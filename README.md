@@ -2,7 +2,7 @@
 
 <h1 align="center">cue</h1>
 
-<p align="center">control whatever is playing on your mac with a pinch<br><b><a href="https://karanganesan.com/cue">karanganesan.com/cue</a></b></p>
+<p align="center">control what's playing with your hand<br><b><a href="https://karanganesan.com/cue">karanganesan.com/cue</a></b></p>
 
 <p align="center"><img src="assets/menu.png" width="430" alt="cue's menu open over a colourful desktop: watching on, which hand, the camera, open at login, and the gestures"></p>
 
