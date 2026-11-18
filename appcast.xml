@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Cue</title>
+        <item>
+            <title>0.0.1</title>
+            <pubDate>Tue, 17 Nov 2026 21:54:05 -0800</pubDate>
+            <link>https://github.com/karanganesan/cue-releases</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[first release: control what's playing on your mac with a pinch. tap thumb and index to play or pause, hold thumb and middle to change the volume (up and down) or the track (left and right). everything runs on your mac.
+]]></description>
+            <enclosure url="https://github.com/karanganesan/cue-releases/releases/download/v0.0.1/cue-0.0.1.dmg" length="10276255" type="application/octet-stream" sparkle:edSignature="fSOLAp5BrCW3/qyC9ujFyNXQZ2bpy2W0Qfjka/6dM7BeifZocmjkyC1tTQjDqM31ANxNfTCzan9RObeH0exjCw=="/>
+        </item>
+    </channel>
+</rss>
