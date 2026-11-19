@@ -4,7 +4,7 @@
 
 <p align="center">control what's playing with your hand<br><b><a href="https://karanganesan.com/cue">karanganesan.com/cue</a></b></p>
 
-<p align="center"><img src="assets/menu.png" width="430" alt="cue's menu open on liquid glass over a ribbon wallpaper: watching on, which hand, the camera, open at login, and the gestures"></p>
+<p align="center"><img src="assets/menu.png" width="430" alt="cue's menu open over a colourful desktop: watching on, which hand, the camera, open at login, and the gestures"></p>
 
 - **tap thumb and index**: play / pause
 - **hold thumb and middle, move up / down**: volume
