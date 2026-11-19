@@ -12,7 +12,7 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description sparkle:format="plain-text"><![CDATA[the ⌃⌥c shortcut in the menu sits evenly with the text
 ]]></description>
-            <enclosure url="https://github.com/karanganesan/cue-releases/releases/download/v0.0.2/cue-0.0.2.dmg" length="10276327" type="application/octet-stream" sparkle:edSignature="oHgWtydxjqGtXBpV8g7dd6SwtKd09YbpiMolK4Rti3lO03HxW0dX2rAGh9rpTx2f0Rgy9lsrxYen71BeJfApDA=="/>
+            <enclosure url="https://cdn.karanganesan.com/cue/v0.0.2/cue-0.0.2.dmg" length="10276327" type="application/octet-stream" sparkle:edSignature="oHgWtydxjqGtXBpV8g7dd6SwtKd09YbpiMolK4Rti3lO03HxW0dX2rAGh9rpTx2f0Rgy9lsrxYen71BeJfApDA=="/>
         </item>
         <item>
             <title>0.0.1</title>
