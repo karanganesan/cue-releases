@@ -11,7 +11,7 @@
 - **hold thumb and middle, move left / right**: previous / next
 
 works with anything that plays on your mac: youtube in chrome or safari, music, spotify, quicktime, iina, vlc<br>
-everything runs on your mac: the camera never leaves it<br>
+everything runs on your mac: nothing it sees leaves the mac<br>
 needs a mac with apple silicon
 
 this repo only hosts cue's releases (the signed, notarized downloads) and its update feed (`appcast.xml`, read by
